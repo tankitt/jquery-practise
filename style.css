@@ -1,0 +1,25 @@
+body,html{
+	padding: 0;
+	margin: 0;
+}
+
+h1{
+	margin: 0;
+	background: #787777;
+	padding: 20px;
+	text-align: center;
+	color: #fff;
+	font-style: italic;
+	letter-spacing: 4px;
+}
+
+#slide_up{
+	width: 320px;
+	background: #000;
+	color: #fff;
+	margin-left: 40px;
+	letter-spacing: 4px;
+	padding: 20px;
+	font-style: italic;
+
+}
